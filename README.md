@@ -26,7 +26,7 @@ A simple ML and DL based website which recommends the best crop to grow, fertili
 
 * Before the following steps make sure you have git, Anaconda or miniconda installed on your system
 
-* Clone the complete project with git clone https://github.com/Rushi-Balapure/Agrimetrics.git or you can just download the code and unzip it
+* Clone the complete project with git clone https://github.com/aayushgandhi16/Agrimetrics.git or you can just download the code and unzip it
 
 * Once the project is cloned, open anaconda prompt in the directory where the project was cloned and paste the following block
 
